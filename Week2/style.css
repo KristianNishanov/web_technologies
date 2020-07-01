@@ -6,3 +6,35 @@
 
 
 } 
+#name{
+      font-family:Verdana;
+      font-size:28px; 
+
+}
+#email{
+       font-family:Verdana;
+       font-size:16px;
+}
+#phone{
+       font-family:Verdana;
+       font-size:16px;
+}
+#p1{
+    font-family: Segoe-ui;
+    color:orange;
+}   
+#t1{
+    border: 1px solid;
+}
+#t1, td{
+   border: 1px solid;
+   border-collapse:collapse; 
+}
+
+body {
+   background-image: url("images/background.jfif");
+   height: 100%;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

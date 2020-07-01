@@ -1,0 +1,26 @@
+#content img{
+           
+          
+          width:10%;
+          float:left;
+          margin-right:15% 
+ 
+}
+
+#content ul{
+            float:left;
+            width:50%
+    
+        
+}
+
+#content ul li{
+               display: inline;
+               padding-right: 2%;
+               text-underline-position: under; 
+               text-decoration-skip: ink;  
+}
+
+
+
+ 
